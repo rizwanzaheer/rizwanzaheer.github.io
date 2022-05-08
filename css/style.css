@@ -3572,7 +3572,8 @@ body {
 }
 .profile-list .title {
   display: block;
-  width: 120px;
+  width: 160px;
+  min-width: 120px;
   float: left;
   color: #333333;
   font-size: 12px;
