@@ -2425,6 +2425,17 @@ body {
   text-align: center;
 }
 
+.section-portfolio,
+.section-experience,
+.section-education,
+.section-references,
+.section-blog,
+.section-interests,
+.section-contact {
+  max-width: 1450px;
+  margin: 0 auto;
+}
+
 .grid-box,
 .post-box,
 .price-box,
